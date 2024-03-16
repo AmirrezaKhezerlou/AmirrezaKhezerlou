@@ -5,4 +5,5 @@
 const fName = 'Amirreza';<br>
 const lName = 'Khezerlou';<br>
 const nation = 'Iranian';<br>
+const education =  'Master's degree'<br>
 const skills = ['Flutter Developer' , 'Linux' , 'MySQL' , 'PHP' , ' Java' , 'Python' , 'WordPress' , 'Problem Resolving', 'Team - Working'];<br>
