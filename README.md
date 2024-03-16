@@ -1,5 +1,5 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirrezaKhezerlou)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirrezaKhezerlou)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirrezaKhezerlou)](https://github.com/AmirrezaKhezerlou)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirrezaKhezerlou)](https://github.com/AmirrezaKhezerlou)
 
 ## Welcome to My Github Page
 const fName = 'Amirreza';<br>
