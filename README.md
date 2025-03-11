@@ -19,3 +19,5 @@ const skills = [
   "Problem Solving",  
   "Teamwork"
 ];
+
+🚀 Passionate Flutter Developer | 💡 Always Learning | 🛠️ Problem Solver
